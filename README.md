@@ -39,27 +39,27 @@ CoreJavaScript를 읽으면서 프론트엔드의 기초가되는 JavaScript를 
 - 
 <br>
 
-### 2️⃣ 실행 컨텍스트
+### 2️⃣ CHAPTER2 실행 컨텍스트
 - 
 <br>
 
-### 3️⃣ this
+### 3️⃣ CHAPTER3 this
 - 
 <br>
 
-### 4️⃣ 콜백함수
+### 4️⃣ CHAPTER4 콜백함수
 - 
 <br>
 
-### 5️⃣ 클로저
+### 5️⃣ CHAPTER5 클로저
 - 
 <br>
 
-### 6️⃣ 프로토타입
+### 6️⃣ CHAPTER6 프로토타입
 - 
 <br>
 
-### 7️⃣ 클래스
+### 7️⃣ CHAPTER7 클래스
 - 
 <br>
 
