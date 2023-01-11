@@ -35,31 +35,31 @@ CoreJavaScript를 읽으면서 프론트엔드의 기초가되는 JavaScript를 
 
 <br>
 
-### 1️⃣ CHAPTER1 데이터타입
+### 1️⃣ [CHAPTER1 데이터타입](https://github.com/nara04040/CoreJS_Study/tree/main/CHAPTER1)
 - 
 <br>
 
-### 2️⃣ CHAPTER2 실행 컨텍스트
+### 2️⃣ [CHAPTER2 실행 컨텍스트](https://github.com/nara04040/CoreJS_Study/tree/main/CHAPTER2)
 - 
 <br>
 
-### 3️⃣ CHAPTER3 this
+### 3️⃣ [CHAPTER3 this](https://github.com/nara04040/CoreJS_Study/tree/main/CHAPTER3)
 - 
 <br>
 
-### 4️⃣ CHAPTER4 콜백함수
+### 4️⃣ [CHAPTER4 콜백함수](https://github.com/nara04040/CoreJS_Study/tree/main/CHAPTER4)
 - 
 <br>
 
-### 5️⃣ CHAPTER5 클로저
+### 5️⃣ [CHAPTER5 클로저](https://github.com/nara04040/CoreJS_Study/tree/main/CHAPTER5)
 - 
 <br>
 
-### 6️⃣ CHAPTER6 프로토타입
+### 6️⃣ [CHAPTER6 프로토타입](https://github.com/nara04040/CoreJS_Study/tree/main/CHAPTER6)
 - 
 <br>
 
-### 7️⃣ CHAPTER7 클래스
+### 7️⃣ [CHAPTER7 클래스](https://github.com/nara04040/CoreJS_Study/tree/main/CHAPTER7)
 - 
 <br>
 
