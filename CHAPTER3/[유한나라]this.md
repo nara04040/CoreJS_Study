@@ -3,8 +3,9 @@ JavaScript의 this는 **함수의 호출 방식**에 따라서 this에 바인딩
 1. 전역공간일 때
 2. 함수호출
 3. 메서드 호출
-4. 생성자 함수 호출
-5. apply / call / bind 호출
+4. 콜백함수 호출
+5. 생성자 함수 호출
+6. apply / call / bind 호출
 
 
 
